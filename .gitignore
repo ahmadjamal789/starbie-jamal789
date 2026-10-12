@@ -53,3 +53,25 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Backups and autosaves
+*.bak
+*.bck
+*-backups/
+*-bak
+_autosave-*
+\#auto_saved_files#
+~*
+
+# Lock files
+*.lck
+
+# Caches
+fp-info-cache
+*-cache.lib
+*-cache.dcm
+*-rescue.lib
+*-rescue.dcm
+
+# Machine-specific settings
+*.kicad_prl
