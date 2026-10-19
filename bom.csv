@@ -1,0 +1,6 @@
+Reference,Value,Qty,Unit price (USD),Total (USD)
+U1,XIAO-ESP32-C3,1,4.97,4.97
+U2,MPU6050,1,3.69,3.69
+U3,Display 128x64 I2C OLED,1,8.59,8.59
+"SW1, SW2",SW_Push,2,0.94,1.88
+"D1, D2",LED_ARGB,2,0.72,1.44
